@@ -1,3 +1,1 @@
-functions-framework
-requests==3.1.2
-numpy
+functions-framework==3.*
